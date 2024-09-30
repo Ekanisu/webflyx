@@ -1,1 +1,8 @@
-secure/
+# *.js
+
+*.txt
+!names.txt
+
+/src/main.py
+
+content.md
